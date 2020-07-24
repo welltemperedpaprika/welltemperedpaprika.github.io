@@ -5,10 +5,19 @@
     <link>https://welltemperedpaprika.github.io/posts/</link>
     <description>Recent content in Posts on A blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 04 Jun 2020 09:19:29 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2020 14:37:11 -0700</lastBuildDate>
     
         <atom:link href="https://welltemperedpaprika.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Math</title>
+      <link>https://welltemperedpaprika.github.io/2020/07/math/</link>
+      <pubDate>Fri, 24 Jul 2020 14:37:11 -0700</pubDate>
+      
+      <guid>https://welltemperedpaprika.github.io/2020/07/math/</guid>
+      <description>Test math support: $\sqrt{2}$ What about a fraction $$\frac{2}{3}$$ Inline : \(\sqrt{2}\) $\sqrt{2}$ OK Not bad $\ce{H2O}$</description>
+    </item>
     
     <item>
       <title>About</title>
